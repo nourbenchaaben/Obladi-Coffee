@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Obladi-Coffee/static/css/main.b12314d0.css",
+    "main.css": "/Obladi-Coffee/static/css/main.44d56fcb.css",
     "main.js": "/Obladi-Coffee/static/js/main.a2bf48d5.js",
     "static/js/453.ec54f01c.chunk.js": "/Obladi-Coffee/static/js/453.ec54f01c.chunk.js",
     "index.html": "/Obladi-Coffee/index.html",
-    "main.b12314d0.css.map": "/Obladi-Coffee/static/css/main.b12314d0.css.map",
+    "main.44d56fcb.css.map": "/Obladi-Coffee/static/css/main.44d56fcb.css.map",
     "main.a2bf48d5.js.map": "/Obladi-Coffee/static/js/main.a2bf48d5.js.map",
     "453.ec54f01c.chunk.js.map": "/Obladi-Coffee/static/js/453.ec54f01c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b12314d0.css",
+    "static/css/main.44d56fcb.css",
     "static/js/main.a2bf48d5.js"
   ]
 }
