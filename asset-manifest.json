@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/YOUR_REPO_NAME/static/css/main.9eafc92b.css",
-    "main.js": "/YOUR_REPO_NAME/static/js/main.2cf412da.js",
-    "static/js/453.ec54f01c.chunk.js": "/YOUR_REPO_NAME/static/js/453.ec54f01c.chunk.js",
-    "index.html": "/YOUR_REPO_NAME/index.html",
-    "main.9eafc92b.css.map": "/YOUR_REPO_NAME/static/css/main.9eafc92b.css.map",
-    "main.2cf412da.js.map": "/YOUR_REPO_NAME/static/js/main.2cf412da.js.map",
-    "453.ec54f01c.chunk.js.map": "/YOUR_REPO_NAME/static/js/453.ec54f01c.chunk.js.map"
+    "main.css": "/Obladi-Coffee/static/css/main.9eafc92b.css",
+    "main.js": "/Obladi-Coffee/static/js/main.f0e98823.js",
+    "static/js/453.ec54f01c.chunk.js": "/Obladi-Coffee/static/js/453.ec54f01c.chunk.js",
+    "index.html": "/Obladi-Coffee/index.html",
+    "main.9eafc92b.css.map": "/Obladi-Coffee/static/css/main.9eafc92b.css.map",
+    "main.f0e98823.js.map": "/Obladi-Coffee/static/js/main.f0e98823.js.map",
+    "453.ec54f01c.chunk.js.map": "/Obladi-Coffee/static/js/453.ec54f01c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9eafc92b.css",
-    "static/js/main.2cf412da.js"
+    "static/js/main.f0e98823.js"
   ]
 }
